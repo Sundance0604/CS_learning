@@ -1,3 +1,22 @@
-# CS_learning
-Config files for my GitHub profile.
-All the homework of CSDIY course are shown here
+# 人机交互设计——电子音乐交流平台
+主界面分为三种：
+## 音乐上传界面
+
+- **上传歌词**：上传歌词
+- **上传成品**：上传完成的作品
+
+## NFT交易界面
+
+- **上传NFT**：上传NFT
+- **我的NFT**：查看和上架NFT
+- **探索NFT**：根据条件寻找NFT
+- **NFT市场**：显示NFT市场信息
+
+## 音乐定制界面
+
+- **定制音乐**：寻找艺人定制音乐
+
+  
+
+
+
